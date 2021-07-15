@@ -1,0 +1,93 @@
+<div class="main">
+    <div class="row">
+        <div style="font-weight: bold;">Name<span style="color: red;">*</span></div>
+        <div class="col-3">
+          <input type="text" class="form-control" placeholder="" aria-label="First name">
+          <label for="First name">First</label>
+        </div>
+        <div class="col-3">
+          <input type="text" class="form-control" placeholder="" aria-label="Last name">
+          <label for="Last name">Last</label>
+        </div>
+      </div>
+      <div class="row">
+        <div style="font-weight: bold;">Email<span style="color: red;">*</span></div>
+        <div class="col-6">
+          <input type="text" class="form-control" placeholder="" aria-label="First name">
+        </div>
+       </div>
+       <div style="font-weight: bold;">Your Experience<span style="color: red;">*</span><br>
+        <img src="./five star.png" alt="five star" style="width: 200px;height: 25px;">
+    </div><br>
+    <div><p>Overall,how would you rate your experience with us?</p></div>
+
+<div style="font-weight: bold;">How satisfied are you with
+  <span style="color: red;">*</span><br>
+  <div class="table">
+  <span>Very Unsatisfied</span>
+  <span style="padding-left: 15px;">Unsatisfied</span>
+  <span style="padding-left: 15px;">Neutral</span>
+  <span style="padding-left: 15px;">Satisfied</span>
+  <span style="padding-left: 15px;">Very Satisfied</span>
+  </div>
+  <div style="background-color: rgb(202,209,216);font-size: 12px;">
+    <span>Purchase</span>
+    <span style="padding-left: 200px;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 65px;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 45px;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+  </div>
+  <div style="font-size: 12px;">
+    <span>Service</span>
+    <span style="padding-left: 208px;;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 65px;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 45px;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+  </div>
+  <div style="background-color: rgb(202,209,216);font-size: 12px;">
+    <span>Comapany Overall</span>
+    <span style="padding-left: 150px;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 65px;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 45px;"><input type="radio" name="a" id=""></span>
+    <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+  </div>
+  </div><br>
+  <div style="font-weight: bold;">How satisfied are you with
+    <span style="color: red;">*</span><br>
+    <div class="table">
+    <span>Very Unsatisfied</span>
+    <span style="padding-left: 15px;">Unsatisfied</span>
+    <span style="padding-left: 15px;">Neutral</span>
+    <span style="padding-left: 15px;">Satisfied</span>
+    <span style="padding-left: 15px;">Very Satisfied</span>
+    </div>
+    <div style="background-color: rgb(202,209,216);font-size: 12px;">
+      <span>Purchase</span>
+      <span style="padding-left: 200px;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 65px;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 45px;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+    </div>
+    <div style="font-size: 12px;">
+      <span>Service</span>
+      <span style="padding-left: 208px;;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 65px;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 45px;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+    </div>
+    <div style="background-color: rgb(202,209,216);font-size: 12px;">
+      <span>Comapany Overall</span>
+      <span style="padding-left: 150px;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 65px;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 45px;"><input type="radio" name="a" id=""></span>
+      <span style="padding-left: 55px;"><input type="radio" name="a" id=""></span>
+    </div>
+    </div><br>
+
+  </div>
